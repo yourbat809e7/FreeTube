@@ -2,7 +2,9 @@
 Watch YouTube ad-free & protect your privacy. Lightweight desktop app using Invidious API.
 ![FreeTube2](https://github.com/user-attachments/assets/6ebd18e2-ab94-4fed-a4a0-f06e9b1106a9)
 ![FreeTube3](https://github.com/user-attachments/assets/8bf45dea-534a-4629-b352-37a0de8ba424)
-![Uploading FreeTube1.png…]()
+
+
+
 
 
 FreeTube is a lightweight, open-source desktop application that lets you watch YouTube videos without ads, tracking, or distractions, while keeping all data local to your device.
